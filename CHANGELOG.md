@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-image-optimizer` will be documented in this file
 
+## 1.8.3 - 2026-02-21
+
+Support Laravel 13
+
 ## 1.8.2 - 2025-02-21
 
 ### What's Changed
