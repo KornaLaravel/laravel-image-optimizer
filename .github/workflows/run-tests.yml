@@ -25,7 +25,7 @@ jobs:
     name: P${{ matrix.php }} - L${{ matrix.laravel }}
 
     steps:
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 20
 
